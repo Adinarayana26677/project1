@@ -1,1 +1,3 @@
 This is a new project. deploying in production
+
+bug is  fixed
